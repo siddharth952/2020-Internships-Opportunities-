@@ -21,3 +21,9 @@ To contribute:
 |  [Student Training in Engineering Program Intern 2020](http://bit.ly/googleintern952) |  China  |  Present | Currently at second year of Bachelor's degree.Programming experience in either Java, Python, C, or C++. |
 |  
 
+
+## Research Internship for Undergraduates
+
+| Name  |  Location |  Application Period |  Notes |
+|---|---|---|---|
+|  [Shastri Indo-Canadian Institute](https://www.shastriinstitute.org/shastri-research-student-fellowship) | India | June 2020 
